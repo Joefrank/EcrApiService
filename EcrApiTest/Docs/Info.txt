@@ -1,0 +1,5 @@
+﻿http://wsdlbrowser.com/soapclient?wsdl_url=http%3A%2F%2FBBCAgents.ecr.bg%2FApi.svc%3Fwsdl&function_name=Availability
+
+http://BBCAgents.ecr.bg/Api.svc?wsdl
+
+1q-psWDffplAr1fgJAX_HVfH36eCs3z9MqXeM-hWHao
